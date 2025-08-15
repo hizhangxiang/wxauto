@@ -1,0 +1,1 @@
+cursor.execute(f"SELECT last_title FROM account WHERE gh_name='{gh_name}'")
